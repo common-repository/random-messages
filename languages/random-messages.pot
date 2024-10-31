@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: random messages\n"
+"POT-Creation-Date: 2013-08-07 11:53+0900\n"
+"PO-Revision-Date: 2013-08-07 11:54+0900\n"
+"Last-Translator: shoshirasaka <sho.shirasaka@gmail.com>\n"
+"Language-Team: shoshirasaka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+
+#: random-messages/trunk/random-messages.php:49
+msgid "Input messages what you wanna show"
+msgstr ""
+
+#: random-messages/trunk/random-messages.php:51
+msgid "sample message (More inputs are possible using new lines)"
+msgstr ""
+
+#: random-messages/trunk/random-messages.php:56
+msgid "How to use"
+msgstr ""
+
+#: random-messages/trunk/random-messages.php:57
+msgid "Add the tag &lt;?php random_messages_show();?&gt; where you like."
+msgstr ""

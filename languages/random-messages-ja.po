@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: random messages\n"
+"POT-Creation-Date: 2013-08-12 01:42+0900\n"
+"PO-Revision-Date: 2013-08-12 01:42+0900\n"
+"Last-Translator: shoshirasaka <sho.shirasaka@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /Users/sho/pizz/shirasaka/plugins/\n"
+"X-Poedit-SearchPath-0: random-messages\n"
+
+#: random-messages/tags/1.1/random-messages.php:49
+#: random-messages/tags/1.2/random-messages.php:46
+msgid "Input messages what you wanna show"
+msgstr "表示させたいテキストを入力してください。"
+
+#: random-messages/tags/1.1/random-messages.php:51
+#: random-messages/tags/1.2/random-messages.php:48
+msgid "sample message (More inputs are possible using new lines)"
+msgstr ""
+"ここにランダムで表示させたい文章を入力（改行区切りで複数入力が可能です）"
+
+#: random-messages/tags/1.1/random-messages.php:52
+#: random-messages/tags/1.2/random-messages.php:49
+#: random-messages/trunk/random-messages.php:49
+msgid "Submit"
+msgstr "更新"
+
+#: random-messages/tags/1.1/random-messages.php:56
+#: random-messages/tags/1.2/random-messages.php:51
+msgid "How to use"
+msgstr "使い方"
+
+#: random-messages/tags/1.1/random-messages.php:57
+#: random-messages/tags/1.2/random-messages.php:52
+msgid "Add the tag &lt;?php random_messages_show();?&gt; where you like."
+msgstr ""
+"テンプレート内に、&lt;?php random_messages_show();?&gt; を追加してください。"
+"ランダムであらかじめ準備した文章が表示されます。"
+
+#: random-messages/trunk/random-messages.php:46
+msgid "Enter messages to display, one message per line."
+msgstr "表示させたいテキストを入力してください。"
+
+#: random-messages/trunk/random-messages.php:48
+msgid "Sample message (use a line break after each message)"
+msgstr ""
+"ここにランダムで表示させたい文章を入力（改行区切りで複数入力が可能です）"
+
+#: random-messages/trunk/random-messages.php:51
+msgid "Usage"
+msgstr "使い方"
+
+#: random-messages/trunk/random-messages.php:52
+msgid ""
+"Use &lt;?php random_messages_show();?&gt; in your template where you want to "
+"show your random message."
+msgstr ""
+"テンプレート内に、&lt;?php random_messages_show();?&gt; を追加してください。"
+"あらかじめ準備した文章がランダムで表示されます。"
